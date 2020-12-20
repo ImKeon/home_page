@@ -8,7 +8,7 @@ export class HomeButton extends Component {
             <Container fluid>
                 <Row>
                     <Col>
-                        Hello
+                        Hellonpm
                     </Col>
                     <Col>
                         World

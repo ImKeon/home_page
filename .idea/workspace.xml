@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8be70660-aba1-4547-8a70-62495f825047" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homemain/HomeButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    <list default="true" id="8be70660-aba1-4547-8a70-62495f825047" name="Default Changelist" comment="My HomePage Start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +64,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608439546808</updated>
-      <workItem from="1608439547910" duration="4303000" />
+      <workItem from="1608439547910" duration="5327000" />
     </task>
+    <task id="LOCAL-00001" summary="My HomePage Start">
+      <created>1608464376105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608464376105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +89,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My HomePage Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="My HomePage Start" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
